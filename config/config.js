@@ -19,9 +19,9 @@ Config.whitelist = [
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
 	id: 'showdown',
-	host: 'terremoto.live.psim.us',
+	host: 'terremoto.live',
 	port: 443,
-	httpport: 8081,
+	httpport: 8000,
 	altport: 80,
 	registered: true
 };
